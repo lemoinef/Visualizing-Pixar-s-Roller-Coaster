@@ -1,7 +1,9 @@
 # Project: Visualizing Pixar's Roller Coaster
 
-Pixar Animation is one of the most well known animation studios in the world and many people worldwide religiously watch every new released film. With hits like Toy Story, Finding Nemo, Monster's Inc, and A Bug's Life, Pixar's movies are adored by kids for their charming characters and by adults for their wit. To date, Pixar has released 15 movies total (at the time of writing) and its recent movies, like Inside Out, still continue to amaze viewers and critics alike. While Pixar has seen a lot of success, including a successful acquisition by Disney, not every one of their movies have been a hit. We'll explore Pixar's Roller Coaster at the box office. 
+Pixar Animation is one of the most well known animation studios in the world and many people worldwide religiously watch every new released film. With hits like Toy Story, Finding Nemo, Monster's Inc, and A Bug's Life, Pixar's movies are adored by kids for their charming characters and by adults for their wit. To date, Pixar has released 15 movies total (at the time of writing) and its recent movies, like Inside Out, still continue to amaze viewers and critics alike. While Pixar has seen a lot of success, including a successful acquisition by Disney, not every one of their movies have been a hit. We'll explore Pixar's Roller Coaster at the box office.
 
+## Context 
+This project is part of Dataquest.io guided projects. Datasets were provided and we were asked to make data exploration in Jupyter Notebook. Each project were constituted of 6 to 8 steps of exploration, analysis, visualization and sometimes machine learning algorithm implementation. Additional steps were given at the end of each project to advance our exploration. The text cells between each code cells are part of the instructions that were provided. It is slightly retouched. For example, instead of 'you', it has been replace by 'we' to improve readability. 
 
 ## Install
 This project requires Python 3 and the following Python libraries installed:
